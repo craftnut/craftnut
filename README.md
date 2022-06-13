@@ -1,6 +1,6 @@
 - hi there! i'm craftnut
 - i'm a minor looking to learn a thing or two about basic programming
-- currently i'm learning some HTML+CSS
+- currently i'm learning some HTML+CSS and Python
 - i don't got much more to say, check out my website over at https://craftnut.wtf/
 
 <!---
