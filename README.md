@@ -11,7 +11,7 @@
 ## would like to learn:
 - ✅basic HTML + CSS (done)
 - ▶️basic Python (in progress)
-- ❌C++ or C# (future)
+- ❌C (future)
 
 ## profile statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftnut)](https://github.com/anuraghazra/github-readme-stats)
